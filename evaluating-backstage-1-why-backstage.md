@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Backstage 1: Why Backstage?"
+title: Evaluating Backstage Part 1: Why Backstage?
 authors:
   - Carlos Eduardo Inocencio Alanis
 ---
