@@ -1,7 +1,7 @@
 ---
 title: "Succeeding with Backstage 2: Building and Maintaining Custom Plugins"
 authors:
-  - Carlos Inocencio
+  - Carlos Eduardo Inocencio Alanis
 ---
 This second installment of the "Succeeding with Backstage" explains how to create a custom Backstage plugin.
 
