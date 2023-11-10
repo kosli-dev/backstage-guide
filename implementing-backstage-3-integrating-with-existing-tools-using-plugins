@@ -1,3 +1,8 @@
+---
+title: "Implementing Backstage 3: Integrating with Existing Tools Using Plugins"
+authors:
+  - Carlos Inocencio
+---
 This third part of the "Implementing Backstage" series explains how to integrate Backstage with existing tools and plugins.  
 
 If you’re at an earlier stage of your Backstage implementation, the two previous installments in this series focus on [getting started](https://www.kosli.com/blog/implementing-backstage-getting-started/) and [using the core features](https://www.kosli.com/blog/implementing-backstage-using-the-core-features/). If you're looking for a more general introduction to Backstage, you can read the [first article](https://www.kosli.com/blog/evaluating-backstage-why-backstage/) in the "Evaluating Backstage" series.
