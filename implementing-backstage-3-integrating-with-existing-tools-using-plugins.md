@@ -1,7 +1,7 @@
 ---
 title: "Implementing Backstage 3: Integrating with Existing Tools Using Plugins"
 authors:
-  - Carlos Inocencio
+  - Carlos Eduardo Inocencio Alanis
 ---
 This third part of the "Implementing Backstage" series explains how to integrate Backstage with existing tools and plugins.  
 
