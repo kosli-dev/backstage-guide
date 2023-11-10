@@ -1,7 +1,7 @@
 ---
 title: "Succeeding with Backstage 1 : Customizing the Look and Feel of Backstage"
 authors:
-  - Carlos Inocencio
+  - Carlos Eduardo Inocencio Alanis
 ---
 This is the first article in the "Succeeding with Backstage" series. This series is for those with a working Backstage implementation who want to ensure smooth adoption and ongoing successful use of the tool.
 
