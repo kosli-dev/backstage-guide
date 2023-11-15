@@ -3,7 +3,7 @@ title: Evaluating Backstage Part 1: Why Backstage?
 authors:
   - Carlos Eduardo Inocencio Alanis
 ---
-This article is the first part of the "Evaluating Backstage" series. It covers all the basics around developer portals, introduces Backstage development, and explores how it can help your organization be more efficient and secure.
+This article is the first part of the "Evaluating Backstage" series. It covers all the basics around developer portals, introduces Backstage development, and explores how it can help your organization to be more efficient and secure.
 
 Backstage is a developer portal that acts as a centralized hub for your organization, providing access to documentation, infrastructure, tooling, and code standards. It gives developers everything they need to create and manage their projects in a consistent and standardized manner. To understand why Backstage exists, and why you should care about it at all, you must first understand the pain points it's trying to alleviate.
 
