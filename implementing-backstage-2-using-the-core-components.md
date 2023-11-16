@@ -1,5 +1,5 @@
 ---
-title: "Implementing Backstage 2: Using the Core Features"
+title: "Implementing Backstage 2: Core Components"
 authors:
   - Samuel Umoren
 ---
