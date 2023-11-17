@@ -1,5 +1,5 @@
 ---
-title: "Implementing Backstage 5: Using the Kubernetes Plugin in Backstage"
+title: "Implementing Backstage 5: Implementing Backstage: Kubernetes Plugins"
 authors:
   - Carlos Eduardo Inocencio Alanis
 ---
