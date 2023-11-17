@@ -1,5 +1,5 @@
 ---
-title: "Implementing Backstage 6: Deploying Backstage on Kubernetes"
+title: "Implementing Backstage: Kubernetes Deployment"
 authors:
   - Carlos Eduardo Inocencio Alanis
 ---
