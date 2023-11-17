@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Backstage 3: Backstage vs. Competitors"
+title: "Evaluating Backstage: Backstage vs. Competitors"
 authors:
   - Artem Oppermann
 ---
